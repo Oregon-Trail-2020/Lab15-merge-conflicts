@@ -1,8 +1,8 @@
 # Lab15-merge-conflicts
 
-Bob failed to do a git pull and is gonna regret it.
+NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
 
-What is happening!
+NEw Stuff
 
 
 Ok, now there is something on line 8.
