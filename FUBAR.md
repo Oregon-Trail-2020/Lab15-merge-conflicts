@@ -1,8 +1,8 @@
 # Lab15-merge-conflicts
 
-heyy guys!!!!!!!!!!
+Bob failed to do a git pull and is gonna regret it.
 
-I'm trying to start a conflict
-!!!!!!!!!!
+What is happening!
 
-ready to fight
+
+Ok, now there is something on line 8.
